@@ -2033,7 +2033,7 @@
     prompts "^2.4.2"
     semver "^7.5.2"
 
-"@react-native-firebase/app@^21.2.0":
+"@react-native-firebase/app@^21.1.0":
   version "21.2.0"
   resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-21.2.0.tgz#63233d1cfa9d294d4e8352a4c11361658b85a2bc"
   integrity sha512-3lkJNWHU5Iod6n1k9Q6VmCbI84D5M/pVSwaRtxc3sf/c2eU7Bdrhv6ql4Sv3+2TqdQ4FMD9wqTBrFkJHchhfTw==
@@ -2041,17 +2041,17 @@
     firebase "10.13.2"
     superstruct "^0.6.2"
 
-"@react-native-firebase/auth@^21.2.0":
+"@react-native-firebase/auth@^21.1.0":
   version "21.2.0"
   resolved "https://registry.yarnpkg.com/@react-native-firebase/auth/-/auth-21.2.0.tgz#04ba47c0213ca19404d61154b24d4a862d4ae759"
   integrity sha512-dC9EwXZTk+DPL0OGv9JsZnrsiG+V0xfPozYigwlvdWtevVd2bCbHDbZd4TFDuV+AtM1AIxWKAflUw0kLIcBDew==
   dependencies:
     plist "^3.1.0"
 
-"@react-native-google-signin/google-signin@^13.1.0":
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/@react-native-google-signin/google-signin/-/google-signin-13.1.0.tgz#6482b89acf2ac88a6c68bc1304a265d5b7c3bb3a"
-  integrity sha512-C2/sqb0/s0c+Dwc/mykASZsRuHxGqn7SFrCxCY9D8p8IOQO05haInhCc7lzraJshRixGva5c/4usQZ71HMYSEQ==
+"@react-native-firebase/messaging@^21.1.0":
+  version "21.2.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/messaging/-/messaging-21.2.0.tgz#9bd0eae5ba603f6ddf85dc429cc1e365d368a7f8"
+  integrity sha512-KB6/sBREqloeU3ehAxEE/jeyV8WFLBxxp2wFewxImbGfWGgv/HS7opexgAEhugb50lAhx4v4ZQQMTYVD+ghS/w==
 
 "@react-native/assets-registry@0.75.3":
   version "0.75.3"
