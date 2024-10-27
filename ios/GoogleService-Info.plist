@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>544318675493-gbh0aghd9d56bk2h791mcnmjb31s36ca.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.544318675493-gbh0aghd9d56bk2h791mcnmjb31s36ca</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>544318675493-49eqce8cmi6jh96tsb6on2ppce44miqd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASmUnP_Ls1LDDtajXc2NgitmmO-mFHCUE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544318675493</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.beno.tolola</string>
+	<key>PROJECT_ID</key>
+	<string>embarcador-d932b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>embarcador-d932b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544318675493:ios:e98368b4c2fe61959d7dcc</string>
+</dict>
+</plist>
